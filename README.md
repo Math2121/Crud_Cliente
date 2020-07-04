@@ -2,18 +2,18 @@
 
 Ose seguintes valores como requisitados irão ser inseridos no banco de dados e mostrados na tabela abixo do formulário
 
-*Nome
-*Email
-*Telefone
-*CPF
+* Nome
+* Email
+* Telefone
+* CPF
 
 ### As frameworks para o CSS da página usadas foram:
 
-*Materialize
+* Materialize
 
 
 **Biblioteca de Icones**
-*Material Icons
+* Material Icons
 
 #**Como Rodar o projeto**
 
