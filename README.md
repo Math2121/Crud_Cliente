@@ -1,4 +1,4 @@
-#**CRUD DE USUÁRIOS**
+###**CRUD DE USUÁRIOS**
 
 Ose seguintes valores como requisitados irão ser inseridos no banco de dados e mostrados na tabela abixo do formulário
 
@@ -15,7 +15,7 @@ Ose seguintes valores como requisitados irão ser inseridos no banco de dados e 
 **Biblioteca de Icones**
 * Material Icons
 
-#**Como Rodar o projeto**
+###**Como Rodar o projeto**
 
 * Importe a database **hibrido.sql** para o seu banco de dados local;
 * A database já irá estara com alguns dados de teste para verficar a busca de informações na tabela **users** ;
