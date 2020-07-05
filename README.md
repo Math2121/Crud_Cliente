@@ -18,7 +18,7 @@ Ose seguintes valores como requisitados irão ser inseridos no banco de dados e 
 #**Como Rodar o projeto**
 
 * Importe a database **hibrido.sql** para o seu banco de dados local;
-* A database já irá estra com alguns dados de teste para verficar a busca de informações na tabela **users** ;
+* A database já irá estara com alguns dados de teste para verficar a busca de informações na tabela **users** ;
 * Ative seu servidor local;
 * Cadastre seu cliente na página principal;
 * Delete seu cliente no icone com formato de "X";
